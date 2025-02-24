@@ -12,4 +12,4 @@
 - [平方数の和は無理数？](./sum_square_irrational.md)
 - [任意の正の整数$`k,m`$についてある$n$が存在し、$`\left(\sqrt{m}-\sqrt{m-1}\right)^k=\sqrt{n}-\sqrt{n-1}`$であることを示せ(2通りでやる)](./elegant.md)
 - [$`n`$個の整数$`a_1,a_2,\cdots,a_n`$が与えられたとき$`\sum_{i=k}^{l}a_{i}\equiv 0\ (\mod n)`$となる$`k,l`$が存在することを示せ](./existence.md)
-- [なんかの小数部分の極限(忘れたので思い出す)](./limit.md)
+- [$`(n+\sqrt{n^{2}-1})^{n}`$の小数部分の極限($`n\rightarrow\infty`$)](./limit.md)
