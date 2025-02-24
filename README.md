@@ -8,7 +8,7 @@
 ## 準備中の記事(リンク先ありません)
 - [数字の文字列の書き方]()
 - [twitter謎画像の解釈]()
-- [とある台形の角](./trapezoid.md)
+- [とある四角形の角](./tetragon.md)
 - [$`2^{m}+3^{n}`$が平方数となるm,n](./sum_power_eq_square.md)
 - [平方数の和は無理数？](./sum_square_irrational.md)
 - [任意の正の整数$`k,m`$についてある$n$が存在し、$`\left(\sqrt{m}-\sqrt{m-1}\right)^k=\sqrt{n}-\sqrt{n-1}`$であることを示せ(2通りでやる)](./elegant.md)
