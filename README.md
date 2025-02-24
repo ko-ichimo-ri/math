@@ -5,6 +5,8 @@
 - [謎のフィボナッチ$`\sum_{i=0}^{\lfloor \frac{n}{2} \rfloor} {}_{n-k} \mathrm{C}_k`$(一部準備中)](./fibonacci.md)
 
 ## 準備中の記事(リンク先ありません)
+- [数字の文字列の書き方]()
+- [twitter謎画像の解釈]()
 - [とある台形の角](./trapezoid.md)
 - [$`2^{m}+3^{n}`$が平方数となるm,n](./sum_power_eq_square.md)
 - [平方数の和は無理数？](./sum_square_irrational.md)
